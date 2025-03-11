@@ -1,4 +1,4 @@
-# React Native News App 🚀
+# News App 🚀
 
 A full-featured news app built using React Native! This app fetches real-time news from a live API, includes a smooth splash screen animation with Lottie, a drawer navigation for various categories, and push notifications for breaking news. 
 
