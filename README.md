@@ -32,7 +32,7 @@ git clone https://github.com/LovishTayal2/News-App.git
 ```
 2. Navigate into your project directory:
 ```bash
-cd news-app
+cd News-app
 ```
 3. Install dependencies:
 ```bash
