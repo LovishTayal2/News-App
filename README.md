@@ -28,7 +28,7 @@ How to run a project:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/LovishTayal2/news-app.git
+git clone https://github.com/LovishTayal2/News-App.git
 ```
 2. Navigate into your project directory:
 ```bash
